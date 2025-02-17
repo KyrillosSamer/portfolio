@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var typed = new Typed('#element', {
-    strings: ['<i>web Design</i>', 'web Development'],
+    strings: ['<i>Geo spatial Solutions Developer</i>', 'Front End  Developer'],
     typeSpeed: 50,
   });
 
